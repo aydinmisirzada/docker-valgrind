@@ -1,6 +1,6 @@
 ## But...why?
 
-Valgrind is a great memory leak detection tool, but not available to MacOS Big Sur users. There's a workaround tho...
+[Valgrind](https://valgrind.org) is a great memory leak detection tool, but not available to MacOS Big Sur users at the moment. There's a workaround tho...
 
 ## Usage
 
