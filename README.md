@@ -1,4 +1,4 @@
-## But...w2hy?
+## But...why?
 
 Valgrind is a great memory leak detection tool, but not available to MacOS Big Sur users. There's a workaround tho...
 
