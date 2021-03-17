@@ -12,4 +12,4 @@ to build the image. Now, you should be able to run the container using:
 
 `docker run -tiv $PWD:/test docker-valgrind:0.1`
 
-This will mount current working directory in `/test/`. Navigate to test `cd test`. Compile and debug your code using `valgrind ./executable`
+This will mount current working directory in `/test/`. Navigate to test directory: `cd test`. Compile and debug your code using `valgrind ./executable`
